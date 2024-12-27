@@ -3,7 +3,7 @@
     [switch]$d
 )
 if (-not $u) {
-    Write-Host "Hey stupid fuck this is how you use it: thisfile.ps1 -u <URL> -d <DYNAMIC_SWITCH>
+    Write-Host "Hey this is how you use it: thisfile.ps1 -u <URL> -d <DYNAMIC_SWITCH>
     'nOptions (more otw):
     'n-u: URL of remote script to download and execute post-bypass (http://)
     'n-d: Dynamically generate AM*I bypass through Internet Explorer COM Obj (OPSEC)"
